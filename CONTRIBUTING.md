@@ -1,1 +1,3 @@
-> Our community-wide contributing documentations is available here: <https://contribute.freecodecamp.org>
+> [!NOTE]
+> 
+> Our community-wide contributing documentation is available here: <https://contribute.freecodecamp.org>
