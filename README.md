@@ -4,4 +4,4 @@
 Learn more about default community health files: <https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file>.
 
 > [!Note] 
-> These files will NOT cascase to other repos: `CODEOWNERS`, `LICENSE`.
+> These files will NOT cascade to other repos: `CODEOWNERS`, `LICENSE`.
