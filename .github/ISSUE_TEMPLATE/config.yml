@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Report a security vulnerability
-    url: https://contribute.freecodecamp.org/security
-    about: Please report security issues by following our security policy.
+  - name: Request Support
+    url: https://forum.freecodecamp.org
+    about: Visit our community forum for support and FAQs
+  - name: Request technical support for your freeCodeCamp account
+    url: https://www.freecodecamp.org/support
+    about: Please visit this page for requesting technical support related to your freeCodeCamp account.
