@@ -1,16 +1,16 @@
-# freeCodeCamp
+# w3Develops
 
-[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
+[![w3Develops Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.w3Develops.org/)
 
-[freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech.
+[w3Develops.org](https://www.w3Develops.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://www.w3Develops.org/donate) to help millions of busy adults transition into tech.
 
 Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
-You can [read more about freeCodeCamp](https://freecodecamp.org/news/about).
+You can [read more about w3Develops](https://w3Develops.org/news/about).
 
-## Become a Sponsor to freeCodeCamp
+## Become a Sponsor to w3Develops
 
-In 2014, a teacher started an open source community called freeCodeCamp.org. This community has grown to include millions of developers from around the world. Together, we have built:
+In 2014, a teacher started an open source community called w3Develops.org. This community has grown to include millions of developers from around the world. Together, we have built:
 
 💻 A free 3,000-hour programming curriculum.
 
@@ -24,6 +24,7 @@ We are fully donor-supported. And we are extremely capital-efficient.
 
 Last year our budget was only about $400,000. And yet we served more than 1 billion minutes of learning.
 
-Each dollar you give to freeCodeCamp.org translates into 50 hours worth of learning for people around the world.
+Each dollar you give to w3Develops.org translates into 50 hours worth of learning for people around the world.
 
-[Sponsor us on GitHub](https://github.com/sponsors/freeCodeCamp) or [see other ways to donate](https://www.freecodecamp.org/donate).
+[Sponsor us on GitHub](https://github.com/sponsors/w3Develops) or [see other ways to donate](https://www.w3Develops.org/donate).
+
