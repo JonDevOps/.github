@@ -1,6 +1,6 @@
 # w3Develops
 
-[![w3Develops Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.w3Develops.org/)
+[![w3Develops Social Banner](https://github.com/user-attachments/assets/a351ff78-2a92-4f0b-8c00-294ea7ca4bab)](https://www.w3Develops.org/)
 
 [w3Develops.org](https://www.w3Develops.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://www.w3Develops.org/donate) to help millions of busy adults transition into tech.
 
@@ -27,5 +27,6 @@ Last year our budget was only about $4,000. And yet we served more than 1 millio
 Each dollar you give to w3Develops.org translates into many hours worth of learning for people around the world.
 
 [Sponsor us on GitHub](https://github.com/sponsors/w3Develops) or [see other ways to donate](https://www.w3Develops.org/donate).
+
 
 
