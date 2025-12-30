@@ -11,7 +11,7 @@
 # All files are owned by dev team
 # -------------------------------------------------
 
-* @freecodecamp/dev-team
+* @w3develops/dev-team
 
 # --- Owned by none (negate rule above) ---
 
@@ -19,7 +19,7 @@ package.json
 package-lock.json
 
 
-/* @freecodecamp/dev-team
+/* @w3develops/dev-team
 
 # --- Owned by none (negate rule above) ---
 
